@@ -8,6 +8,7 @@ namespace FilmesAPI.Models
 {
     public class Filme
     {
+        public int Id { get; internal set; }
         [Required(ErrorMessage = "O campo título não pode estar em branco.")]
         public String Titulo { get; set; }
         [Required(ErrorMessage = "O campo diretor não pode estar em branco.")]
@@ -16,5 +17,6 @@ namespace FilmesAPI.Models
         public String Genero { get; set; }
         [Range(1, 600, ErrorMessage = "A duração deve estar entre 1 e 600 minutos.")]
         public int Duracao { get; set; }
+        
     }
 }
