@@ -8,6 +8,8 @@ namespace FilmesAPI.Models
 {
     public class Filme
     {
+        [Key]
+        [Required]
         public int Id { get; internal set; }
         [Required(ErrorMessage = "O campo título não pode estar em branco.")]
         public String Titulo { get; set; }
