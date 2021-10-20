@@ -46,3 +46,5 @@ C:\Users\viih4\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Configur
 C:\Users\viih4\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\viih4\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\viih4\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\viih4\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\viih4\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
